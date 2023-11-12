@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='customer-churn-prediction',
 version='0.0.1',
 author='Kuldeep',
 author_email='poriyakuldeep13@gmail.com',
